@@ -21,9 +21,10 @@ ul {
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    border: 5px solid hotpink;
+    display: block; /* rendre l'image en tant que block, le rendre comme un p par exemple */
+    margin-left: auto; /* permet de centrer*/
+    margin-right: auto; /* permet de centrer */
+    border-radius: 50%; /* permet d'arrondir l'image */
+    border: 5px solid hotpink; /* permet de rendre visible la bordure avec la taille de l'épaisseur 
+    et les autres attributs*/
 }
